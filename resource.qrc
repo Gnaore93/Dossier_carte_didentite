@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="img">
+    <file>Static/images_ projet_carte/external-man-avatars-vitaliy-gorbachev-flat-vitaly-gorbachev-4.png</file>
+    <file>Static/images_ projet_carte/edit-property--v2.png</file>
+    <file>Static/images_ projet_carte/external-browser-multimedia-kiranshastry-lineal-kiranshastry-5.png</file>
+    <file>Static/images_ projet_carte/filled-trash.png</file>
+    <file>Static/images_ projet_carte/icons8-search-32.png</file>
+    <file>Static/images_ projet_carte/obituary.png</file>
+  </qresource>
+</RCC>
